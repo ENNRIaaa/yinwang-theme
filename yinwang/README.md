@@ -1,3 +1,12 @@
+## 更新 
+
+这个主题来自smallyu，在此基础上做了少许更改
+
+- 还原yinwang.org样式
+- 日期显示成中文格式
+- 日期显示位置在文章标题上方
+
+--- 以下是来自smallyu主题简介 ---
 ## 简介
 
 样式设计来自 [https://www.yinwang.org](http://www.yinwang.org/)
